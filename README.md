@@ -41,7 +41,7 @@ cd traffic-sign-image-classification
    ```
 ### Project Structure
 traffic_sign_image_classification.ipynb: Main script containing the entire workflow from data loading to model evaluation.
-archieve: Zip file containing the traffic signs dataset.
+dataset.txt: GTSRB - German Traffic Sign Recognition Benchmark Dataset (Kaggle link is provided for download)
 
 ### Model Architecture
 The model is a customized CNN sequential model designed for efficient classification of traffic signs. The architecture includes multiple convolutional layers followed by pooling layers and fully connected dense layers.
