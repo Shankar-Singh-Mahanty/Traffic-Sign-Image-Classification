@@ -39,21 +39,24 @@ cd traffic-sign-image-classification
    ```
    python traffic_sign_classification.ipynb
    ```
-###Project Structure
+### Project Structure
 traffic_sign_image_classification.ipynb: Main script containing the entire workflow from data loading to model evaluation.
 archieve: Zip file containing the traffic signs dataset.
 
-###Model Architecture
+### Model Architecture
 The model is a customized CNN sequential model designed for efficient classification of traffic signs. The architecture includes multiple convolutional layers followed by pooling layers and fully connected dense layers.
 
-###Results
+### Results
 Visualize the training and validation accuracy and loss, and evaluate the model on the test dataset to obtain metrics such as accuracy, precision, recall, and F1-score.
 
-###Contributing
+### Contributing
 Feel free to submit issues or pull requests if you want to contribute to the project.
 
-###License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-###Acknowledgments
+### Acknowledgments
 This project is inspired by various research papers and tutorials on traffic sign classification using deep learning.
+
+---
+Happy Coding!
